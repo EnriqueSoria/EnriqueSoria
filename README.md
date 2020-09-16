@@ -1,10 +1,10 @@
-### Hola 👋
+## Hola 👋
 
-#### 👨‍🔧 Treballe com a programador backend
+### 👨‍🔧 Treballe com a programador backend
 
-####  🎫 desenvolupe [festivales.wiki](https://festivales.wiki)
+###  🎫 desenvolupe [festivales.wiki](https://festivales.wiki)
 
-#### 🔧 sé de:
+### 🔧 sé de:
  - Backend amb Django + DRF
  - Microserveis amb AWS
 
