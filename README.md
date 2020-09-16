@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hola 👋
+
+#### 👨‍🔧 Treballe com a programador backend
+
+####  🎫 desenvolupe [festivales.wiki](https://festivales.wiki)
+
+#### 🔧 sé de:
+ - Backend amb Django + DRF
+ - Microserveis amb AWS
+
 
 <!--
 **EnriqueSoria/EnriqueSoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
