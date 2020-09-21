@@ -2,9 +2,9 @@
 
 ### 👨‍🔧 Treballe com a programador backend
 
-###  🎫 desenvolupe [festivales.wiki](https://festivales.wiki)
+###  🎫 A càrrec de [festivales.wiki](https://festivales.wiki)
 
-### 🔧 sé de:
+### 🔧 Sé de:
  - Backend amb Django + DRF
  - Microserveis amb AWS
 
