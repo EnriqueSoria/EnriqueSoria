@@ -4,6 +4,8 @@
 
 ###  🎫 A càrrec de [festivales.wiki](https://festivales.wiki)
 
+### Escric coses a [enriquesoria.github.io](https://enriquesoria.github.io/)
+
 ### 🔧 Sé de:
  - Backend amb Django + DRF
  - Microserveis amb AWS
