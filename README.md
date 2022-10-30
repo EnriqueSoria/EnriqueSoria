@@ -1,12 +1,15 @@
 ## Hola 👋
 
-### 👨‍🔧 Treballe com a programador backend
+**👨‍🔧 Treballe com a programador backend a [@KaveTech](https://github.com/KaveTech)**
 
-###  🎫 A càrrec de [festivales.wiki](https://festivales.wiki)
+**🎫 Gestione [festivales.wiki](https://festivales.wiki)**
 
-### Escric coses a [enriquesoria.github.io](https://enriquesoria.github.io/)
+**📝 Escric coses a [enriquesoria.github.io](https://enriquesoria.github.io/)**
 
-### 🔧 Sé de:
+**👥 He contribuit en:**
+ - [django-lifecycle]([https://github.com/rsinger86/django-lifecycle](https://github.com/rsinger86/django-lifecycle/pulls/EnriqueSoria))
+
+**🔧 Sé de:**
  - Backend amb Django + DRF
  - Microserveis amb AWS
 
