@@ -7,7 +7,7 @@
 **📝 Escric coses a [enriquesoria.github.io](https://enriquesoria.github.io/)**
 
 **👥 He contribuit en:**
- - [django-lifecycle]([https://github.com/rsinger86/django-lifecycle](https://github.com/rsinger86/django-lifecycle/pulls/EnriqueSoria))
+ - [django-lifecycle](https://github.com/rsinger86/django-lifecycle/pulls/EnriqueSoria)
 
 **🔧 Sé de:**
  - Backend amb Django + DRF
