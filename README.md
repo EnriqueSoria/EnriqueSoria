@@ -9,3 +9,4 @@
 **👥 He contribuit en:**
  - [rsinger86/django-lifecycle](https://github.com/rsinger86/django-lifecycle/pulls/EnriqueSoria)
  - [pythonalicante/MeetupSelector](https://github.com/pythonalicante/MeetupSelector/pulls/EnriqueSoria)
+ - [jose-lpa/django-tracking-analyzer](https://github.com/jose-lpa/django-tracking-analyzer/pulls/EnriqueSoria)
