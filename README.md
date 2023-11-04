@@ -7,7 +7,7 @@
 **📝 Escric coses a [enriquesoria.github.io](https://enriquesoria.github.io/)**
 
 **👥 Open source:**
- - [rsinger86/django-lifecycle](https://github.com/rsinger86/django-lifecycle/pulls/EnriqueSoria) - Col·laborador i co-mantenidor del projecte
+ - [rsinger86/django-lifecycle](https://github.com/rsinger86/django-lifecycle) - Col·laborador i co-mantenidor del projecte
  - [EnriqueSoria/octet](https://github.com/EnriqueSoria/octet) - Autor
  - [EnriqueSoria/api_client_framework](https://github.com/EnriqueSoria/api_client_framework) - Autor
  - [EnriqueSoria/PyWegowAPI](https://github.com/EnriqueSoria/PyWegowAPI) - Autor
