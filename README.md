@@ -4,7 +4,7 @@
 
 **🎫 Gestione [festivales.wiki](https://festivales.wiki)**
 
-**📝 Escric coses a [enriquesoria.github.io](https://enriquesoria.com/)**
+**📝 Escric coses a [blog.enriquesoria.com/](https://blog.enriquesoria.com/)**
 
 **👥 Open source:**
  - [rsinger86/django-lifecycle](https://github.com/rsinger86/django-lifecycle) - Col·laborador i co-mantenidor del projecte
